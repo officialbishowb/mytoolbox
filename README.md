@@ -5,7 +5,6 @@ This repo contains a set of scripts and tools I use to speed up tasks and improv
 ## Contents
 
 - **Scripts**: Automation for common tasks.
-- **Configurations**: Custom settings for different tools.
 - **Utilities**: Miscellaneous tools to enhance productivity.
 
 ## Getting Started
