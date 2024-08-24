@@ -35,4 +35,4 @@ Feel free to suggest improvements or add your own tools through pull requests.
 
 ## Note
 
-Many codes are for personal use and therefore to speed up the development process, an AI(such as ChatGPT) might be used to generate the code.
+Many scripts are for personal use and therefore to speed up the development process, an AI(such as ChatGPT) might be used to generate the code.
