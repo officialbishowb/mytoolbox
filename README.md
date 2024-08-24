@@ -12,8 +12,17 @@ This repo contains a set of scripts and tools I use to speed up tasks and improv
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/personal-tools.git
+   git clone https://github.com/officialbishowb/mytoolbox.git
+    cd mytoolbox
+    ```
 
+2. **Select a tool**:
+   Choose a tool from the list and follow the instructions in the respective directory.
+
+
+## Tools
+
+- [Backup Tool](backup_tool/README.md): A simple Python tool using PyQt6 for moving (backing up) files from a source folder to two targets folder.
 
 
 ## Usage
