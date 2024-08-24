@@ -1,4 +1,4 @@
-# Personal Tools
+# My Toolbox
 
 This repo contains a set of scripts and tools I use to speed up tasks and improve efficiency.
 
