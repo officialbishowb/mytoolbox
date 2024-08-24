@@ -31,3 +31,8 @@ Each tool includes a usage guide. Check the respective directories for details.
 
 ## Contributing
 Feel free to suggest improvements or add your own tools through pull requests.
+
+
+## Note
+
+Many codes are for personal use and therefore to speed up the development process, an AI(such as ChatGPT) might be used to generate the code.

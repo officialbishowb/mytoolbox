@@ -48,10 +48,3 @@ You can now open the application by typing `backup` in the command line.
 2. Select the two target folders using the "Select Target Folder X" button.
 3. Click the "Backup Now" button to start the backup process.
 4. Output messages will be displayed in the designated area.
-
-
-
-
-## Note
-
-This code was written by an AI (why not? - as long as you understand it) for personal use and to speed up the process (because thats what we do, right? ;) ) of backing up files to two external HDDs. 
